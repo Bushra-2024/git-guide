@@ -1,8 +1,6 @@
 # git-guide
 **Your go-to guide for mastering Git repositories, branches, and workflows.**
 
-# Git Repository: 
-
 ## What is a Git Repository?  
 A **Git repository** is the core structure of Git. It’s a collection of files and folders managed by Git, enabling tracking of all changes and maintaining a complete history of the project. Think of it as a project folder with powerful version control capabilities.  
 
@@ -11,15 +9,13 @@ A **Git repository** is the core structure of Git. It’s a collection of files 
 ## How Does a Git Repository Work?  
 
 A Git repository consists of the following key components:  
-
 1. **Working Directory**  
    - The space where you make changes to your files (e.g., editing code or documents).  
-
 2. **Staging Area (Index)**  
    - A temporary area where changes are prepared before committing.  
-
 3. **Commit History**  
    - A permanent record of all tracked changes.  
+
 
 When you initialize a Git repository, Git starts tracking changes in the specified directory, enabling you to:  
 
@@ -63,9 +59,14 @@ git push -u origin main.
 This is the typical flow for creating and connecting a new GitHub repository. It allows you to track and manage your project both locally and on GitHub.
 
 
+
 ## What is a Git Branch?  
 
 A **Git branch** is a separate line of development in your project. It allows you to work on different features, bug fixes, or experiments without affecting the main codebase (usually the main or master branch).
+
+<img src="https://static.vecteezy.com/system/resources/thumbnails/016/895/710/small/git-branch-icon-line-isolated-on-white-background-black-flat-thin-icon-on-modern-outline-style-linear-symbol-and-editable-stroke-simple-and-pixel-perfect-stroke-illustration-vector.jpg">
+**Git Branch Icon** 
+The icon represents a branch in Git, symbolizing a distinct line of development in a project. It typically features a line splitting into two, which visually reflects how a branch diverges from the main codebase. And the main branch (often called main or master) is the default and primary branch where the main code resides. Other branches can be created for new features, fixes, or experiments without altering the main branch.
 
 ### Why Use Git Branches?
 - **Separation of Concerns**: Git branches allow you to work on different features or bug fixes without affecting the main project. This makes it easier to manage complex projects.
