@@ -23,6 +23,10 @@ When you initialize a Git repository, Git starts tracking changes in the specifi
 - Revert to any previous version of the project.  
 - Collaborate with others seamlessly.
 
+
+<img src="https://miro.medium.com/v2/resize:fit:686/1*diRLm1S5hkVoh5qeArND0Q.png"> 
+
+I added this image for a better understanding of the concept.
 ---
 
 ## Types of Git Repositories  
