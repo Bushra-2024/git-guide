@@ -42,7 +42,8 @@ When you initialize a Git repository, Git starts tracking changes in the specifi
 ---
 
 ## HOW TO MAKE A NEW REPOSITORY
-When you click the "New Repository" icon <img src="https://cdn.icon-icons.com/icons2/3266/PNG/512/git_repository_icon_207309.png"> , it takes you to a page where you can set up a new repository. Then you should do the following steps
+When you click the "New Repository" icon <img src="![git-repository (1)](https://github.com/user-attachments/assets/f26be8c5-0a79-46f7-9b36-d33b993118de)
+"> , it takes you to a page where you can set up a new repository. Then you should do the following steps
 1. Enter a name for your new repository.
 2. Add an optional description to explain what your repository is about.
 3. Check this box if you want GitHub to automatically create a README.md file for your repository.
