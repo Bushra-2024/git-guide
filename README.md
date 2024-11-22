@@ -65,6 +65,8 @@ This is the typical flow for creating and connecting a new GitHub repository. It
 A **Git branch** is a separate line of development in your project. It allows you to work on different features, bug fixes, or experiments without affecting the main codebase (usually the main or master branch).
 
 <img src="https://static.vecteezy.com/system/resources/thumbnails/016/895/710/small/git-branch-icon-line-isolated-on-white-background-black-flat-thin-icon-on-modern-outline-style-linear-symbol-and-editable-stroke-simple-and-pixel-perfect-stroke-illustration-vector.jpg">
+
+
 **Git Branch Icon**  
 The icon represents a branch in Git, symbolizing a distinct line of development in a project. It typically features a line splitting into two, which visually reflects how a branch diverges from the main codebase. The main branch (often called `main` or `master`) is the default and primary branch where the main code resides. Other branches can be created for new features, fixes, or experiments without altering the main branch.
 
