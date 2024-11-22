@@ -118,4 +118,5 @@ Lists both local and remote branches, giving you a complete view of all branches
 - git push --delete origin <branch_name>:
 Deletes a branch from the remote repository, making it unavailable to others.
 
+
 These commands help you create, switch, manage, and merge branches, making it easier to organize and collaborate on different features in your project.
