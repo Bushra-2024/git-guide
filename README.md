@@ -31,6 +31,8 @@ When you initialize a Git repository, Git starts tracking changes in the specifi
 I added this image for a better understanding of the concept.
 ---
 
+
+
 ## Types of Git Repositories  
 
 ### 1. Local Repository  
