@@ -43,9 +43,11 @@ When you initialize a Git repository, Git starts tracking changes in the specifi
 
 ## HOW TO MAKE A NEW REPOSITORY
 When you click the "New Repository" icon
-!(![git-repository (1)](https://github.com/user-attachments/assets/5061ff27-486c-4cbd-9d88-540b2c6ae4ea)
-)
-, 
+
+
+![git-repository (1)](https://github.com/user-attachments/assets/5061ff27-486c-4cbd-9d88-540b2c6ae4ea)
+
+
 
 it takes you to a page where you can set up a new repository. Then you should do the following steps
 1. Enter a name for your new repository.
